@@ -1,0 +1,28 @@
+{
+  "name": "demo-arduino",
+  "version": "1.0.0",
+  "description": "Examples on arduino with Javascript",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jggomez/demo-arduino-js.git"
+  },
+  "keywords": [
+    "arduino",
+    "javascript",
+    "johnny-five.io"
+  ],
+  "author": "Juan Guillermo Gómez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jggomez/demo-arduino-js/issues"
+  },
+  "homepage": "https://github.com/jggomez/demo-arduino-js#readme",
+  "dependencies": {
+    "johnny-five": "^0.13.0",
+    "nodemailer": "^4.4.2"
+  }
+}
