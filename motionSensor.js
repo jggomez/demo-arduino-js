@@ -38,7 +38,7 @@ function sendEmail() {
         secure: true,
         auth: {
             user: "jggomez@devhack.co",
-            pass: "011235813AcE"
+            pass: "XXXXX"
         }
     });
 
